@@ -13,7 +13,9 @@ int main()
 
     unsigned int variant;
     unsigned int N;
+    unsigned int n;
     double X1, X2, delta;
+    double x, y;
 
 // ------ Введення номера варіанту ------------
 
